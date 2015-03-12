@@ -2,8 +2,8 @@
     "name": "williamurbano/placehold.it",
     "description": "View Helper to generate placehold.it URLs",
     "require": {
-        "php": ">=5.4.*",
-        "zendframework/zendframework": ">=2.3.*"
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.3.*"
     },
     "license": "GNU General Public License v2.0",
     "authors": [

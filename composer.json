@@ -3,7 +3,7 @@
     "description": "View Helper to generate placehold.it URLs",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "2.*"
+        "zendframework/zendframework": "2.4.*"
     },
     "license": "GNU General Public License v2.0",
     "authors": [
